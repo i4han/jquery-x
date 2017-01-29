@@ -1,7 +1,7 @@
 
 Package.describe({
     summary: 'jquery-x: Extend jQuery library for Meteor.',
-    version: '0.0.11',
+    "version": "0.0.11",
     git: 'https://github.com/i4han/jquery-x.git',
     documentation: 'README.md'
 });
